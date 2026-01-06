@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ConsoleApplication2/ConsoleApplication2.vcxproj" Id="068b77b8-c096-42b9-86db-7fd8528a89d8" />
+  <Project Path="../LAB06_2/LAB06_2.vcxproj" Id="51278613-d352-436e-92fc-2386fe37e8dc" />
+  <Project Path="../LAB06_3/LAB06_3.vcxproj" Id="0007ada4-e325-402e-9e56-2a5da24904ca" />
+  <Project Path="../LAB06_4/LAB06_4.vcxproj" Id="5731cdc5-dc72-466d-870f-f78dd24e3586" />
+  <Project Path="LAB06.vcxproj" Id="a56d8a54-a894-4c91-bc57-7f5842e47e07" />
+</Solution>
